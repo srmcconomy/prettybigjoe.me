@@ -11,8 +11,8 @@ body {
 }
 
 .main-title {
-  letter-spacing: 0.5vw;
-  font-size: 3vw;
+  letter-spacing: 12px;
+  font-size: 48px;
 }
 
 .main-page {
@@ -21,8 +21,8 @@ body {
 }
 
 .projects-title {
-  font-size: 1vw;
-  padding: 2vw 0;
+  font-size: 24px;
+  padding: 24px 0;
 }
 
 .project {
