@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Montserrat;
+}
+
+.title-screen {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-title {
+  letter-spacing: 0.5vw;
+  font-size: 3vw;
+}
+
+.main-page {
+  margin: 0 15%;
+  height: 100vh;
+}
+
+.projects-title {
+  font-size: 1vw;
+  padding: 2vw 0;
+}
+
+.project {
+  padding: 0.3vw 0;
+}
